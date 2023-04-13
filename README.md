@@ -30,5 +30,8 @@ Sign up for an ElevenLabs Account and register for the API [here](https://beta.e
 
 Right now the ElevenLabs API key must be hardcoded directly in the stt.py and tts.py files. This will be changed in a future update.
 
+## Support
+This application has only been tested using macOS with Apple Silicon. CustomTkinter does support both MacOS and Windows, though some issues may occur through use on other platforms. 
+
 ---
 Go check out the official repo for [customtkinter](https://github.com/TomSchimansky/CustomTkinter#readme) and see what else the package can do.
