@@ -28,9 +28,9 @@ This app relies on the OpenAI API and ElevenLabs Voice API for full functionalit
 
 - Sign up for an ElevenLabs Account and register for the API [here](https://beta.elevenlabs.io/sign-up)
 
-Right now the ElevenLabs API key must be hardcoded directly in the stt.py and tts.py files. This will be changed in a future update.
-
 The OpenAI API keypath and Organization ID are delcared through the UI by selecting the settings button. Here you can also choose which audio device you'd prefer to use. 
+
+Right now the ElevenLabs API key must be hardcoded directly in the stt.py and tts.py files. This will be changed in a future update.
 
 ## Support
 This application has only been tested using macOS with Apple Silicon. CustomTkinter does support both MacOS and Windows, though some issues may occur through use on other platforms. 
