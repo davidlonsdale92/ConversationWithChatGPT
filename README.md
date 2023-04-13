@@ -14,7 +14,7 @@ This is a Text-To-Speech and Speech-To-Text interface for ChatGPT, capable of co
 ## Installation
 Install the required packages with pip:
 ```
-python -m pip install -r requirements.txt
+python -m pip install -r Setup/requirements.txt
 ```
 Then run:
 ```
