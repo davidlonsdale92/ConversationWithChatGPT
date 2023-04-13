@@ -28,5 +28,7 @@ Sign up for an OpenAI Account and register for the API [here](https://openai.com
 
 Sign up for an ElevenLabs Account and register for the API [here](https://beta.elevenlabs.io/sign-up)
 
+Right now the ElevenLabs API key must be hardcoded directly in the stt.py and tts.py files. This will be changed in a future update.
+
 ---
 Go check out the official repo for [customtkinter](https://github.com/TomSchimansky/CustomTkinter#readme) and see what else the package can do.
