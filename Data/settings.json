@@ -1,0 +1,9 @@
+{
+    "App Settings": {
+        "openai_api_keypath": "",
+        "openai_organizationid": "",
+        "hostapi": "",
+        "device_id": ""
+    },
+    "Appearance": "Dark"
+}
