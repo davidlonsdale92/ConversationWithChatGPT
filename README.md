@@ -33,7 +33,7 @@ The OpenAI API keypath and Organization ID are delcared through the UI by select
 Right now the ElevenLabs API key must be hardcoded directly in the stt.py and tts.py files. This will be changed in a future update.
 
 ## Support
-This application has only been tested using macOS with Apple Silicon. CustomTkinter does support both MacOS and Windows, though some issues may occur through use on other platforms. 
+This application has only been tested using macOS with Apple Silicon. CustomTKinter does support both MacOS and Windows, though some issues may occur through use on other platforms. 
 
 ---
-Go check out the official repo for [customtkinter](https://github.com/TomSchimansky/CustomTkinter#readme) and see what else the package can do.
+Go check out the official repo for [CustomTKinter](https://github.com/TomSchimansky/CustomTkinter#readme) and see what else the package can do.
